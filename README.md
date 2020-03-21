@@ -20,6 +20,8 @@ Tool for lexical analysis of text data
 
 `vowels %: 38` what part of all characters are vowels (a,o,i,e,u)
 
+//TODO double check and update a:e count ratio because it seems to be incorrect
+
 `a:e count ratio: 1.54 ` the ratio of ‘a’ to ‘e’ occurrences
 
 `[ G -> 2.16] [ R -> 5.36] ....<and the rest>` % of in whole text of all the letters
